@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1641829280 source:c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ciupapi.h"
+	"munianio.h"
+	"ciupicaros.h"
+	"FaciOCafea.h"
+
+1641657095 c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\ciupapi.h
+
+1641819051 source:c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\ciupapi.c
+	"ciupapi.h"
+	<stdio.h>
+	<conio.h>
+
+1641657095 c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\munianio.h
+
+1641819051 source:c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\munianio.c
+	"munianio.h"
+	<stdio.h>
+	"ciupapi.h"
+	"ciupicaros.h"
+
+1641734683 c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\ciupicaros.h
+
+1641819665 source:c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\ciupicaros.c
+	<stdio.h>
+	"ciupicaros.h"
+	"munianio.h"
+	"ciupapi.h"
+	<stdlib.h>
+	<string.h>
+
+1641727145 source:c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\faciocafea.c
+	<stdio.h>
+	"ciupicaros.h"
+	"munianio.h"
+	"ciupapi.h"
+	<stdlib.h>
+	"FaciOCafea.h"
+	<time.h>
+
+1641657092 c:\users\tonir\onedrive\desktop\self-checkoutprojecttsanislav\selfcheckout\faciocafea.h
+
+1641819051 source:c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\ciupapi.c
+	"ciupapi.h"
+	<stdio.h>
+	<conio.h>
+
+1641657095 c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\ciupapi.h
+
+1641819665 source:c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\ciupicaros.c
+	<stdio.h>
+	"ciupicaros.h"
+	"munianio.h"
+	"ciupapi.h"
+	<stdlib.h>
+	<string.h>
+
+1641734683 c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\ciupicaros.h
+
+1641657095 c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\munianio.h
+
+1644108297 source:c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\faciocafea.c
+	<stdio.h>
+	"ciupicaros.h"
+	"munianio.h"
+	"ciupapi.h"
+	<stdlib.h>
+	"FaciOCafea.h"
+	<time.h>
+
+1641657092 c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\faciocafea.h
+
+1641829280 source:c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ciupapi.h"
+	"munianio.h"
+	"ciupicaros.h"
+	"FaciOCafea.h"
+
+1641819051 source:c:\users\tonir\onedrive\desktop\c++\self-checkout\selfcheckout\munianio.c
+	"munianio.h"
+	<stdio.h>
+	"ciupapi.h"
+	"ciupicaros.h"
+
