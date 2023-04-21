@@ -20,7 +20,7 @@ public class WordGuess {
     }
 
     public static void main(String[] args) {
-        String dictionary = "snail,owl,rice,export,transition,magnetic,baseball,integration";
+        String dictionary = "sunca,aprilie,castravete,plus,mylittlepony,legenda";
         String[] array = dictionary.split(",");
         Random rand = new Random();
         int index = rand.nextInt(array.length);
@@ -29,7 +29,7 @@ public class WordGuess {
 
         word = randomWord.toCharArray();
 
-        System.out.println(word);
+       // System.out.println(word);sww2444
         String guessedWord = "";
 
         int tries=0, well=0;
